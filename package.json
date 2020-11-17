@@ -1,6 +1,6 @@
 {
   "name": "splunk-sdk-js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "SDK for usage with the Splunk REST API",
   "homepage": "http://dev.splunk.com",
   "main": "index.js",
@@ -33,7 +33,7 @@
     "readable-stream": "1.1.13-1",
     "uglify-js": "^3.4.9"
   },
-  "author": "Splunk <devinfo@splunk.com> (http://dev.splunk.com)",
+  "author": "kalaikaran",
   "license": "Apache-2.0",
   "engine": {
     "node": ">=0.8.0"
