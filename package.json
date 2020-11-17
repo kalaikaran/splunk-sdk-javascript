@@ -1,6 +1,6 @@
 {
   "name": "splunk-sdk-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SDK for usage with the Splunk REST API",
   "homepage": "http://dev.splunk.com",
   "main": "index.js",
@@ -42,7 +42,7 @@
     "url": "https://github.com/splunk/splunk-sdk-javascript/issues"
   },
   "bin": {
-    "splunk-sdk-js": "cli.js"
+    "splunk-sdk": "cli.js"
   },
   "scripts": {
     "test": "tap test/*.js"
