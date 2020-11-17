@@ -1,6 +1,6 @@
 {
   "name": "splunk-sdk-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "SDK for usage with the Splunk REST API",
   "homepage": "http://dev.splunk.com",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/splunk/splunk-sdk-javascript.git"
+    "url": "git+ssh://git@github.com:kalaikaran/splunk-sdk-javascript.git"
   },
   "keywords": [
     "splunk",
