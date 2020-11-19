@@ -42,7 +42,7 @@
     "url": "https://github.com/splunk/splunk-sdk-javascript/issues"
   },
   "bin": {
-    "splunk-sdk": "cli.js"
+    "splunk-sdk-js": "cli.js"
   },
   "scripts": {
     "test": "tap test/*.js"
